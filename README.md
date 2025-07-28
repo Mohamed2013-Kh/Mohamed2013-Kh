@@ -1,50 +1,34 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Mohamed Khedr 👋</h1>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+<p align="center"><strong>Welcome to Mohamed Khedr's GitHub profile!</strong></p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MohamedKhedr&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMohamedKhedr&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+<!-- صورة متحركة فيها الاسم (لو عندك صورة مخصصة حط الرابط هنا) -->
+<!-- ![I'm Mohamed Khedr](رابط_الصورة) -->
 
-[![Telegram](https://img.shields.io/badge/Telegram-Mohamed%20Khedr-blue?style=flat&logo=telegram)](https://t.me/your_username)  
-</div>
+<h3 align="center">💻 Developer & Linux Explorer</h3>
 
 ---
 
-## 🧰 Tools I Use
+### 🛠️ Languages and Tools:
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
----
-
-## 👨‍💻 About Me
-
-- 👋 Hi, I’m **Mohamed Khedr**
-- 🧠 Currently learning: `Python` and `C++`
-- 💻 Passionate about programming, building logic, and learning tech
-- 🐧 Linux enthusiast
-- 🎮 Gamer | 🎬 Movie Lover | 💬 Feel free to ask me anything
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+### 📫 How to reach me:
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-</div>
-
-<details>
-  <summary>More Stats</summary>
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-</details>
+- 📧 mohamedkhedr@email.com
+- 💼 [LinkedIn](https://linkedin.com/in/mohamedkhedr)
 
 ---
 
-## 🔁 Code Cycle
+<p align="center">
+  Thank you for visiting my profile! 😊
+</p>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smil
+
+
+
