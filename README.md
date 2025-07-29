@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm Mohamed Khedr 👋</h1>
 
-<p align="center"><strong>Welcome to Mohamed Khedr's GitHub profile!</strong></p>
-
-<!-- صورة متحركة فيها الاسم (لو عندك صورة مخصصة حط الرابط هنا) -->
-<!-- ![I'm Mohamed Khedr](رابط_الصورة) -->
+<p align="center"><strong>Welcome to my GitHub profile!</strong></p>
 
 <h3 align="center">💻 Developer & Linux Explorer</h3>
 
@@ -20,7 +17,7 @@
 
 ### 📫 How to reach me:
 
-- 📧 mohamedkhedr@email.com
+- 📧 mohamedkhedr@email.com  
 - 💼 [LinkedIn](https://linkedin.com/in/mohamedkhedr)
 
 ---
@@ -28,7 +25,3 @@
 <p align="center">
   Thank you for visiting my profile! 😊
 </p>
-
-
-
-
