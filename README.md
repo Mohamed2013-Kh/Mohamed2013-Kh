@@ -2,7 +2,7 @@
 
 <p align="center"><strong>Welcome to my GitHub profile!</strong></p>
 
-<h3 align="center">💻 Developer & Linux Explorer</h3>
+<h3 align="center">💻 Developer</h3>
 
 ---
 
